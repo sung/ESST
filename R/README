@@ -1,0 +1,23 @@
+Supplementary information for:
+
+Structural and functional constraints in the evolution of protein families.
+Worth CL, Gong S, Blundell TL. 
+Nat Rev Mol Cell Biol. 2009 Oct;10(10):709-20. Epub 2009 Sep 16.
+
+and 
+
+Structural and functional restraints in the evolution of protein families and superfamilies
+Gong S, Worth CL, Bickerton GR, Lee S, Tanramluk D, Blundell TL. 
+Biochem Soc Trans. 2009 Aug;37(Pt 4):727-33
+
+
+1. DM
+PCA is done based on a 64*64 distance matrix.
+
+2. Sub
+PCA is done based on 64*(21*21) substitution profile.
+The substitution profile consists of 64 rows (64 envrionments) and 21*21 columns which describe substitution pattern for a given envrionment.
+
+----
+Last modifeid in 27/Nov/2010
+by Sungsam Gong (sung@bio.cc, sung.gong@yahoo.com)
