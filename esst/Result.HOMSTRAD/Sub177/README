@@ -1,0 +1,28 @@
+-rw-r--r-- 1 ssgong Gloria 172405 2007-11-16 16:33 A.dat
+-rw-r--r-- 1 ssgong Gloria 221466 2007-11-16 16:32 Ap.dat
+-rw-r--r-- 1 ssgong Gloria 172412 2007-11-16 16:33 B.dat
+-rw-r--r-- 1 ssgong Gloria 221472 2007-11-16 16:33 Bp.dat
+-rw-r--r-- 1 ssgong Gloria 172413 2007-11-16 16:33 C.dat
+-rw-r--r-- 1 ssgong Gloria    547 2007-11-16 16:30 classdef.dat
+-rw-r--r-- 1 ssgong Gloria 221474 2007-11-16 16:33 Cp.dat
+-rw-r--r-- 1 ssgong Gloria 172409 2007-11-20 14:42 D.dat
+-rw-r--r-- 1 ssgong Gloria 221470 2007-11-20 14:42 Dp.dat
+-rw-r--r-- 1 ssgong Gloria 172417 2007-11-30 20:14 F.dat
+-rw-r--r-- 1 ssgong Gloria 221478 2007-11-30 20:13 Fp.dat
+drwxr-xr-x 2 ssgong Gloria   6224 2007-11-16 16:00 new_allmask
+drwxr-xr-x 2 ssgong Gloria   6224 2007-11-20 14:36 new_allmask_ddi
+drwxr-xr-x 2 ssgong Gloria   6224 2007-11-16 15:54 new_allmask_ft_only
+drwxr-xr-x 2 ssgong Gloria   6224 2007-11-26 17:10 new_allmask_no_ddi
+drwxr-xr-x 2 ssgong Gloria   6224 2007-11-30 20:08 new_allmask_ppi_and_act
+drwxr-xr-x 2 ssgong Gloria   6224 2007-11-26 15:48 nomask
+-rw-r--r-- 1 ssgong Gloria      0 2007-11-19 18:31 TEMLIST.new_allmask
+-rw-r--r-- 1 ssgong Gloria   5920 2007-11-20 14:36 TEMLIST.new_allmask_ddi
+-rw-r--r-- 1 ssgong Gloria      0 2007-11-19 18:31 TEMLIST.new_allmask_ft_only
+-rw-r--r-- 1 ssgong Gloria      0 2007-11-19 18:31 TEMLIST.new_allmask_no_ddi
+-rw-r--r-- 1 ssgong Gloria   7336 2007-11-30 20:08 TEMLIST.new_allmask_ppi_and_act
+-rw-r--r-- 1 ssgong Gloria      0 2007-11-19 18:31 TEMLIST.nomask
+-rw-r--r-- 1 ssgong Gloria 172396 2007-11-16 16:36 X.dat
+-rw-r--r-- 1 ssgong Gloria 221456 2007-11-16 16:36 Xp.dat
+
+F.dat: new_allmask_ppi_and_act
+

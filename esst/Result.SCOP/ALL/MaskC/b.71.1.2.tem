@@ -1,0 +1,384 @@
+>P1;99406
+sequence
+----------------------------------------------------------------MIKVRVP---D
+FSDKKEMLYRD--------------E-----HMLVTRRD-DGSVALIAWNEVM--DKTENPDEDYEVEIPVR-FR
+--DV-FIKRQLIDEEHGNPWGTWIHMGRPRYPSKEQVNTLREVA----KPEIMTSQPVANDGYLNLKFKLGKNAV
+VLYELTERIDESSTYIGLDDSKINGY*
+>P1;92020
+sequence
+D-----------------------------------------------------------------TVKIDANVN
+Y-QIGAL-RI--QATE-----N-PQSN---VHLTAYKNT-DGKMVIVAVNT--NDS-----DQMLSLNIS-----
+NANVTKFEKYSTS-A----------------------------SLN--V-EY-GGSSQVDSS-GKATVWLNPLSV
+TTFVS-K-------------------*
+>P1;96466
+sequence
+----------------------------------------------------------------KATMIIEKDFK
+I-A-G-V-ALHPVI-SSPKYDSKDFTDVPYLESIAVYNEEKEEVTIFAVNR--DME-----D-ALLLECDVRSFE
+D--YRVIEHIVLEHD--N-------VKQT--NSA---------QSSPVVPHR-NGDAQLSDR--KVSATLPKLSW
+NVIRLGK-------------------*
+>P1;86997
+sequence
+-ARPCIPKSFGYSSVVCVCNATYCDSFDPPTFPALGTFSRYESTRSGRRMELSMGPIQANHTGTGLLLTLQPEQK
+F-Q-KQRVGL--VASQ----KN-D------LDAVALMHP-DGSAVVVVLNR--SSK-----D--VPLTIKDP---
+-------------------------------------------------------------AVGFLETISPGYSI
+HTYLW-HRQ-----------------*
+>P1;99406
+secondary structure and phi angle
+----------------------------------------------------------------CEEEECC---C
+CCCXXXXEEXX--------------X-----CXXXXXXX-CPCEXXXEXXXXX--XXCCCCCEEEEEEEECC-CC
+--CE-XEXEXXXXXCXXXXXHXXXXXXXXXXXXXXHXXXXXXXX----XXXXEXXXCCCCPPEEEEEEEECXXXX
+XXEXEEEXXXXXHXXXXXXXXXXXXX*
+>P1;92020
+secondary structure and phi angle
+C-----------------------------------------------------------------EEEEEEEEE
+X-XXXXX-XE--EECX-----C-CCCP---EXXXEXEXX-CPCEXEXEXXX--CCC-----CEEEEEEEE-----
+PCCCCEEEEXXXX-X----------------------------XXX--X-EE-EPEEECCCC-PEEEEEECCXXX
+XXEXE-C-------------------*
+>P1;96466
+secondary structure and phi angle
+----------------------------------------------------------------CEEEXCXCXXE
+X-X-X-X-XEXXXE-ECCEXCXXXXXXXXCEXXXEXXXCCXPEEXEXXXEX--CXC-----C-CEEEEEECCCCC
+P--CEEEXEXEXXXC--X-------XXXX--XXX---------XCXCXXXCX-CCCCEEEPP--EEEEEECCXXX
+EXEXEEP-------------------*
+>P1;86997
+secondary structure and phi angle
+-CCCXCEXCXPXXXXXXXXXXXXXXXXXXXXXXXCPXEEEXXXXXCPCXXEEEXXECXCCCCCCCEEEEEEEEEE
+C-X-XXXEEE--EECC----CC-C------EXXXEXXXX-CPCEXEXEXXX--CCC-----C--EEEEEEEC---
+-------------------------------------------------------------CCPEEEEEECCXXX
+XXEXE-CCC-----------------*
+>P1;99406
+solvent accessibility
+----------------------------------------------------------------TTTTTFT---T
+TFTTTTTFTTT--------------T-----TFTFTFTT-TTFFTFTFTTTTT--TTTTTTTTTFTFTFFFT-TT
+--TF-TTTTTTTTTTTFTTTTTTTTTTTTTTTTTTTTTTTTTTT----TTTTTTTTTTFTTTTTTFTTTFTTTFT
+FTFTFTTTTTTTTTTTTTTTTTTTTT*
+>P1;92020
+solvent accessibility
+T-----------------------------------------------------------------TFTFTTTTT
+T-TTTTT-TF--TFTT-----T-FTTT---FTFTFTTTT-TTTFTFTFTFT--TTT-----TTTFTFTFT-----
+TTTTTTFTTTFTT-T----------------------------TTT--T-TT-TTTTTFTTT-TTTTFTFTTTFT
+FTFTT-T-------------------*
+>P1;96466
+solvent accessibility
+----------------------------------------------------------------TFTFTFTTTTT
+T-T-T-T-TFTTTT-TFTTTTTTTTTTTTTFTFTFTTTTTTTTFTFTFTFT--TTT-----T-TFTFTFTFTTFT
+T--TTTTTFTFTTTT--T-------TTTT--TTT---------TTTTTTTTT-TTTFTTTTT--TFTFTFTTTFT
+FTFTFFT-------------------*
+>P1;86997
+solvent accessibility
+-TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTFTTTTTTTTTTTTTTTTTTFTTTTTTTTFTFTFTTTTT
+T-T-TTTFTF--TTTT----TT-T------FTTTFTTTT-TTTFTFTFTFT--TTT-----T--TTFFFTFT---
+-------------------------------------------------------------TFTTFTTTFTFTFT
+FTFTF-TTT-----------------*
+>P1;99406
+hydrogen bond to mainchain CO
+----------------------------------------------------------------FFFFFFF---F
+FTFFFFFFFFF--------------F-----TFFFFFFF-FFFFFFFFTTFFF--FFTFFFFFFFFFFFFFF-FF
+--TF-FFFFFFFFFFFFTFFFFTFFFFFFFFFFFFFFFTFFFFF----FFFFFFFFFFFFFFTFFFFFFFFFFFF
+FFFFFFFFFFFFFTFFFFFFFFFFFF*
+>P1;92020
+hydrogen bond to mainchain CO
+F-----------------------------------------------------------------FFFFFFFFF
+F-FFFFF-FF--FFTF-----T-FTFF---FFFFFFTFF-FFFFFFFFFTT--TFF-----FFFFFFFFF-----
+FFFFFFFFTFFFF-F----------------------------FFF--F-FF-FFFTFFFFF-FFFFFFFFFFTF
+FFFFT-F-------------------*
+>P1;96466
+hydrogen bond to mainchain CO
+----------------------------------------------------------------FFFFFFFFFFT
+F-F-F-F-FFFFFF-FFFFFFFFFFFFFFFFFTFFFFFFFFFFFFFFFFTT--FFF-----F-FFFFFFFFFTFT
+F--FFFFFFFFFFTF--F-------FFFF--TTF---------FFFFFFFFF-FFFFFFFFF--FFFFFFFFFTF
+TFFFFFT-------------------*
+>P1;86997
+hydrogen bond to mainchain CO
+-FTFFFFFFFFFFTFFFFFFFFTFFFFFFFTFFFFFFFFFFFFFFFFFTFFFFFFFFFFFTFFFFFFFFFFFFFT
+F-F-FTFFFF--FFTF----FT-F------FFFFFFFFF-FFFFFFFFFTF--TFF-----F--FFFFFFFF---
+-------------------------------------------------------------FFFFFFFFFFFFTF
+FFFFF-TFF-----------------*
+>P1;99406
+hydrogen bond to mainchain NH
+----------------------------------------------------------------FFFFFFF---F
+FTFFFFFFFFT--------------F-----FFFFFFFF-TFFFFFFFFFFFF--FFFFFFFFFFFFFFFFF-FF
+--FF-FFFFFFFTFFFFTFFFFFFFFFFFFFFTFFTFFFFFFFF----FFFFFFFFFFFFFFFFFFFFFFFFTFF
+FFFFFFFFFTFFFFFFFFTFFFFFFF*
+>P1;92020
+hydrogen bond to mainchain NH
+F-----------------------------------------------------------------FFFFTFFFF
+F-FFFFF-FF--FFTF-----F-FTFF---FFFFFFFFF-TFFFFFFFFTF--FFF-----FFFFFFFFF-----
+FFFFFFFFFFFTT-F----------------------------FFF--F-TF-FFFFFFTFF-FFFFFFFFFFFF
+FFFFT-F-------------------*
+>P1;96466
+hydrogen bond to mainchain NH
+----------------------------------------------------------------FFFFFFTFFFF
+F-F-F-F-FFFFFF-FTFFFTTFFFFFFFFFFFFFFFTFFFFFFFFFFFTF--TFF-----F-FFFFFFTFFTFF
+F--FFFFFTFFFFFF--T-------FFFF--TTF---------FFFFFFFFF-FFTFFFFFF--FFFFFFFFFFF
+FFFFFFF-------------------*
+>P1;86997
+hydrogen bond to mainchain NH
+-FFFFFFFTFFFFFFFFFFTFFFFFFFFFFFFFFFFFFFFFFTTFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+F-F-FFFFFF--FFTF----FT-F------FFFFFFFFF-TFFFFFFFFTF--TFF-----T--FFFFFFTF---
+-------------------------------------------------------------FFFFFTFFFFFFFF
+FFFFF-FFF-----------------*
+>P1;99406
+hydrogen bond to other sidechain/heterogen
+----------------------------------------------------------------TFFFTFF---T
+FFFFFTTFTTT--------------F-----TFFFFTTF-TFTFFFFFFFTFF--FFFFFFFFTFTFTFFFF-FF
+--TF-FFFTFFFTTFTFTFFFFFFFFFFFFFFFFFFFTFFFTFF----FFTFTFFTFFFFFFFFFFTFTFFFTFF
+FFTTFFFTFTFTFFFFFFTFTFFFFF*
+>P1;92020
+hydrogen bond to other sidechain/heterogen
+F-----------------------------------------------------------------FFFFTFFFT
+F-TFFFF-TF--FFFT-----F-FTFT---FTFTFTTFF-FFFFFFFFFTT--TFT-----FTFFFFTFF-----
+TFFFFFFTTTFFF-F----------------------------FFF--F-FF-FFFFFFTFT-FTFFFFFTFFTF
+TFFFF-T-------------------*
+>P1;96466
+hydrogen bond to other sidechain/heterogen
+----------------------------------------------------------------FFFTFFFFFFF
+F-F-F-F-FFFFFF-FFFFFFFFFFFFFFFFTTFFFFFFFFFTFFFFFFFT--FFF-----F-FFFFFFTFTFFT
+F--FFFFTTFFFFFF--F-------FFFF--FTF---------TFFFFFFFT-FFTFFFFFT--FFFFTFFFFTF
+TFFTFFF-------------------*
+>P1;86997
+hydrogen bond to other sidechain/heterogen
+-FFFFFFFFFFFFFFFFFFFFFFFTFFFFFFFFFFFFFFTFTFTFTFTFFTFFFFFFFFFTTFFFFFFFFFFFFT
+F-F-FFFFFF--FFFF----FF-F------FTFFFFTTF-TFTFFFFFFTT--TFF-----F--FFFTFFTF---
+-------------------------------------------------------------FFFFFTTFFFFFFF
+TFTFT-FTF-----------------*
+>P1;99406
+cis-peptide bond
+----------------------------------------------------------------FFFFFFF---F
+FFFFFFFFFFF--------------F-----FFFFFFFF-FFFFFFFFFFFFF--FFFFFFFFFFFFFFFFF-FF
+--FF-FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF----FFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFF*
+>P1;92020
+cis-peptide bond
+F-----------------------------------------------------------------FFFFFFFFF
+F-FFFFF-FF--FFFF-----F-FFFF---FFFFFFFFF-FFFFFFFFFFF--FFF-----FFFFFFFFF-----
+FFFFFFFFFFFFF-F----------------------------FFF--F-FF-FFFFFFFFF-FFFFFFFFFFFF
+FFFFF-F-------------------*
+>P1;96466
+cis-peptide bond
+----------------------------------------------------------------FFFFFFFFFFF
+F-F-F-F-FFFFFF-FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF--FFF-----F-FFFFFFFFFFFF
+F--FFFFFFFFFFFF--F-------FFFF--FFF---------FFFFFFFFF-FFFFFFFFF--FFFFFFFFFFF
+FFFFFFF-------------------*
+>P1;86997
+cis-peptide bond
+-FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+F-F-FFFFFF--FFFF----FF-F------FFFFFFFFF-FFFFFFFFFFF--FFF-----F--FFFFFFFF---
+-------------------------------------------------------------FFFFFFFFFFFFFF
+FFFFF-FFF-----------------*
+>P1;99406
+hydrogen bond to heterogen
+----------------------------------------------------------------FFFFFFF---F
+FFFFFFFFFFF--------------F-----FFFFFFFF-FFFFFFFFFFFFF--FFFFFFFFFFFFFFFFF-FF
+--FF-FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF----FFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFF*
+>P1;92020
+hydrogen bond to heterogen
+F-----------------------------------------------------------------FFFFFFFFF
+F-FFFFF-FF--FFFF-----F-FFFF---FFFFFFFFF-FFFFFFFFFFF--FFF-----FFFFFFFFF-----
+FFFFFFFFFFFFF-F----------------------------FFF--F-FF-FFFFFFFFF-FFFFFFFFFFFF
+FFFFF-F-------------------*
+>P1;96466
+hydrogen bond to heterogen
+----------------------------------------------------------------FFFFFFFFFFF
+F-F-F-F-FFFFFF-FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF--FFF-----F-FFFFFFFFFFFF
+F--FFFFFFFFFFFF--F-------FFFF--FFF---------FFFFFFFFF-FFFFFFFFF--FFFFFFFFFFF
+FFFFFFF-------------------*
+>P1;86997
+hydrogen bond to heterogen
+-FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+F-F-FFFFFF--FFFF----FF-F------FFFFFFFFF-FFFFFFFFFFF--FFF-----F--FFFFFFFF---
+-------------------------------------------------------------FFFFFFFFFFFFFF
+FFFFF-FFF-----------------*
+>P1;99406
+covalent bond to heterogen
+----------------------------------------------------------------FFFFFFF---F
+FFFFFFFFFFF--------------F-----FFFFFFFF-FFFFFFFFFFFFF--FFFFFFFFFFFFFFFFF-FF
+--FF-FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF----FFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFF*
+>P1;92020
+covalent bond to heterogen
+F-----------------------------------------------------------------FFFFFFFFF
+F-FFFFF-FF--FFFF-----F-FFFF---FFFFFFFFF-FFFFFFFFFFF--FFF-----FFFFFFFFF-----
+FFFFFFFFFFFFF-F----------------------------FFF--F-FF-FFFFFFFFF-FFFFFFFFFFFF
+FFFFF-F-------------------*
+>P1;96466
+covalent bond to heterogen
+----------------------------------------------------------------FFFFFFFFFFF
+F-F-F-F-FFFFFF-FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF--FFF-----F-FFFFFFFFFFFF
+F--FFFFFFFFFFFF--F-------FFFF--FFF---------FFFFFFFFF-FFFFFFFFF--FFFFFFFFFFF
+FFFFFFF-------------------*
+>P1;86997
+covalent bond to heterogen
+-FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+F-F-FFFFFF--FFFF----FF-F------FFFFFFFFF-FFFFFFFFFFF--FFF-----F--FFFFFFFF---
+-------------------------------------------------------------FFFFFFFFFFFFFF
+FFFFF-FFF-----------------*
+>P1;99406
+disulphide
+----------------------------------------------------------------FFFFFFF---F
+FFFFFFFFFFF--------------F-----FFFFFFFF-FFFFFFFFFFFFF--FFFFFFFFFFFFFFFFF-FF
+--FF-FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF----FFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFF*
+>P1;92020
+disulphide
+F-----------------------------------------------------------------FFFFFFFFF
+F-FFFFF-FF--FFFF-----F-FFFF---FFFFFFFFF-FFFFFFFFFFF--FFF-----FFFFFFFFF-----
+FFFFFFFFFFFFF-F----------------------------FFF--F-FF-FFFFFFFFF-FFFFFFFFFFFF
+FFFFF-F-------------------*
+>P1;96466
+disulphide
+----------------------------------------------------------------FFFFFFFFFFF
+F-F-F-F-FFFFFF-FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF--FFF-----F-FFFFFFFFFFFF
+F--FFFFFFFFFFFF--F-------FFFF--FFF---------FFFFFFFFF-FFFFFFFFF--FFFFFFFFFFF
+FFFFFFF-------------------*
+>P1;86997
+disulphide
+-FFFTFFFFFFFFFFFTFTFFFFTFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+F-F-FFFFFF--FFFF----FF-F------FFFFFFFFF-FFFFFFFFFFF--FFF-----F--FFFFFFFF---
+-------------------------------------------------------------FFFFFFFFFFFFFF
+FFFFF-FFF-----------------*
+>P1;99406
+mainchain to mainchain hydrogen bonds (amide)
+----------------------------------------------------------------FTFTFTF---F
+TFFFFTTTTFT--------------F-----TTTTTTTF-TTTTTTTTTTFFF--TFTFFFFTFTTTTTFTF-TF
+--FT-TTTTTTTTFTTTFFTTTTTTTTTFTFFFFTTTTTTTTTT----TFTFTFTFFFTTFFTTFTFTFTFFTTT
+TTTTTTFTFFFFTTTTTTTFTTTFTT*
+>P1;92020
+mainchain to mainchain hydrogen bonds (amide)
+T-----------------------------------------------------------------FTFTTTTTF
+T-FFFFT-TT--TTTT-----F-FTFT---TTTTFTTTF-TTTTTTTTTTT--FFT-----FTFTTTTTT-----
+FTFFFFTTTTTTT-F----------------------------TFF--T-TF-TFFTFTTFT-TFTFTFTFFTTT
+TTTTT-T-------------------*
+>P1;96466
+mainchain to mainchain hydrogen bonds (amide)
+----------------------------------------------------------------FTTTTTFFTTF
+T-F-F-T-TTTFTF-TFFFTFTFTTFTTFTTTFTFTTTFFTTTTTTTTTTT--FTT-----F-FTFTTTTTFTTF
+F--TTFTTFTTTFFF--T-------FTTT--FTF---------TFFFTFFTF-FTFFTFTFT--TTTTFTFFTTT
+TTTTTTF-------------------*
+>P1;86997
+mainchain to mainchain hydrogen bonds (amide)
+-TTFFFFTFFFFFTFTFTFTFTFFFTFFFFTFFFFTTTTTTTTTTTTFTTTFTFTFTTFFFFFFFFTTTTTFTTT
+T-F-FTTTTF--TFTT----FT-F------FTFTFTTTF-TTTTTTTTTTF--TFF-----F--TFTTTTTF---
+-------------------------------------------------------------TTTTTFTFTFFTTT
+TTTTT-FFF-----------------*
+>P1;99406
+Mainchain to mainchain hydrogen bonds (carbonyl)
+----------------------------------------------------------------FTFTFFT---F
+FFFTFTFFTFT--------------F-----TTTTTTTT-TFTTTTTTFTFTF--TFFFFFFTTTTTTTFTF-FT
+--TF-TTTTTTTTFFTFTTTTTTTFFFTFFFFTTTTTTTTTFTF----TFTFTFTFTFFTTTTTFTFTFTTTFTT
+TTTTTTFFFFTTFTTTTFTTTFTTFF*
+>P1;92020
+Mainchain to mainchain hydrogen bonds (carbonyl)
+T-----------------------------------------------------------------FTTTTFFTF
+F-TFFFT-TT--TTFT-----T-FTTT---FTFTTTTTT-TTTTTTTTTTF--TFF-----FTTTTTTFT-----
+FFFFTTTTTTTTT-F----------------------------FTT--F-TF-FTFTFFTFF-TTTFTFTTTFTT
+TTTTF-F-------------------*
+>P1;96466
+Mainchain to mainchain hydrogen bonds (carbonyl)
+----------------------------------------------------------------FTTTFFTFFTF
+F-T-F-T-TFTFTF-TFTFTFTFFTTFTTTFTFTTTTTTFFFTTTTTTTTT--TFF-----F-FTTTTTTTTFFT
+F--FTFFTTTTTFTF--T-------FTFF--FTF---------FTTFFFFTF-FFTFTFTTT--TTTTFTTTFTT
+TTTTTTF-------------------*
+>P1;86997
+Mainchain to mainchain hydrogen bonds (carbonyl)
+-FTFFTFTFFFTFFFTFFFTFFTFFTFFTFFFFTFTFTTTTTTTTFTTTFTFTFTFFTFFFFFFTTTTTFTTTTF
+F-T-FTTFTF--TTFT----FF-F------FTFTTTTTT-TFTTTTTTTTF--TFF-----F--TFTTTTTF---
+-------------------------------------------------------------FFTTTFTFTTTTTT
+TTTTT-FFF-----------------*
+>P1;99406
+DSSP
+----------------------------------------------------------------CEEEECC---C
+CCCCCCEEEEE--------------C-----CEEEEECC-CCCEEEEEEECCC--CCCCCCCEEEEEEEECC-CC
+--CE-EEEEEEECCCCCCHHHHHHHCCCCCCCCHHHHHHHHHHC----CCEEEEECCCCCCCEEEEEEEECCCEE
+EEEEEEECCCCGGGCCCCCGGGCCCC*
+>P1;92020
+DSSP
+C-----------------------------------------------------------------EEEEEEEEE
+C-CCCCE-EE--EECC-----C-CCCC---EEEEEEECC-CCCEEEEEEEC--CCC-----CEEEEEEEE-----
+CCCCCEEEEEEEC-C----------------------------CCC--C-EE-EEEEECCCC-CEEEEEECCCEE
+EEEEE-C-------------------*
+>P1;96466
+DSSP
+----------------------------------------------------------------CEEEECCCCCE
+E-E-C-E-EECCEE-ECCEECCCCCCCEECEEEEEEEECCCCEEEEEEEEC--CCC-----C-CEEEEEECCCCC
+C--CEEEEEEEECCC--C-------CCCC--CCC---------CCCCCCCCC-CCCCEEECC--EEEEEECCCEE
+EEEEEEC-------------------*
+>P1;86997
+DSSP
+-CCCCCEECCCCCCCEECCCCCCCCCCCCCCCCCCCEEEEEEEECCCCCCEEEEEECCCCCCCCCEEEEEEEEEE
+C-C-CCEEEE--EECC----CC-C------EEEEEEECC-CCCEEEEEEEC--CCC-----C--EEEEEEEC---
+-------------------------------------------------------------CCEEEEEEECCCEE
+EEEEE-CCC-----------------*
+>P1;99406
+positive phi angle
+----------------------------------------------------------------FFFFFFF---F
+FFFFFFFFFFF--------------F-----FFFFFFFF-FTFFFFFFFFFFF--FFFFFFFFFFFFFFFFF-FF
+--FF-FFFFFFFFFFFTFFFFFFFFFTTFFFFFFFFFFFFFFFF----FFFFFFFFFFFFTTFFFFFFFFFFTFF
+FFFFFFFFFFFFFFFFTFFFFFFFTF*
+>P1;92020
+positive phi angle
+F-----------------------------------------------------------------FFFFFFFFF
+F-FFFFF-FF--FFFF-----F-FFFT---FFFFFFFFF-FTFFFFFFFFF--FFF-----FFFFFFFFF-----
+TFFFFFFFFFFFF-F----------------------------FFF--T-FF-FTFFFFFFF-TFFFFFFFFTFF
+FFFFF-F-------------------*
+>P1;96466
+positive phi angle
+----------------------------------------------------------------FFFFFFFFFFF
+F-F-F-F-FFFFFF-FFFFFFFFFFFTFFFFFFFFFFFFFFTFFFFFFFFF--FFF-----F-FFFFFFFFFFFF
+T--FFFFFFFFFFFF--F-------FFFF--FFF---------FFFFFFFFF-FFFFFFFTT--FFFFFFFFTFF
+FFFFFFT-------------------*
+>P1;86997
+positive phi angle
+-FFFFFFFFFTFFFFFFFFFFFFFFFFFFFFFFFFTFFFFFFFFFFTFFTFFFFFFFFFFFFFFFFFFFFFFFFF
+F-F-FFFFFF--FFFF----FF-F------FFFFFFFFF-FTFFFFFFFFF--FFF-----F--FFFFFFFF---
+-------------------------------------------------------------FFTFFFFFFFFTFF
+FFFFF-FFF-----------------*
+>P1;99406
+percentage accessibility
+----------------------------------------------------------------3361505---5
+70768310355--------------a-----3030303b-8300104031518--9a4aa253301040006-17
+--30-404120513840247413381a528927a9346427733----73345473240aa72050605044404
+020204538474a87bb547686cc7*
+>P1;92020
+percentage accessibility
+8-----------------------------------------------------------------507020844
+4-76623-30--5046-----4-0295---050403338-79301030505--286-----624050305-----
+61b0840213051-b----------------------------939--8-45-5732807b7-350405033505
+03010-5-------------------*
+>P1;96466
+percentage accessibility
+----------------------------------------------------------------60506023884
+4-9-4-3-305261-803636597887142060303048a76201030403--188-----8-305030206207
+9--051320103339--6-------6838--469---------984326446-9170707a6--30503024305
+0103007-------------------*
+>P1;86997
+percentage accessibility
+-758055556a982261428a92636678797294530022121593526546335069a285a50202031964
+4-8-724020--7346----a2-8------051404149-86101030407--459-----6--26000303---
+-------------------------------------------------------------50220306020405
+03030-31a-----------------*
+>P1;99406
+Ooi number
+----------------------------------------------------------------2323343---3
+22111233332--------------2-----34454332-2345555543321--11111233333445443-32
+--33-443434333333333333222112112111222232232----333222233232234444343433344
+54545432221111111111010000*
+>P1;92020
+Ooi number
+3-----------------------------------------------------------------344534322
+2-12122-33--3433-----3-3323---444454432-22355655433--222-----334535443-----
+3434334343333-2----------------------------121--2-22-323333222-334455543334
+55554-2-------------------*
+>P1;96466
+Ooi number
+----------------------------------------------------------------34454444222
+2-1-2-2-233433-333321100111234445554432122355656554--332-----3-444545443342
+2--334334343432--2-------2121--111---------111222322-244434223--35455543344
+5454532-------------------*
+>P1;86997
+Ooi number
+-22232321111222232211112222112232233344444443333343333334322222233455433222
+2-1-223334--3322----23-3------444444332-13455555432--222-----3--34556553---
+-------------------------------------------------------------33345455443344
+55655-442-----------------*

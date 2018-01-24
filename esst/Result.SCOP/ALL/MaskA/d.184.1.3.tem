@@ -1,0 +1,128 @@
+>P1;84495
+sequence
+M--------------L------------SVAARSGPFAPVLSATSRGVA--GALRPLVQAAVPATSESPVLDLKR
+SVLCRESLRG*
+>P1;104280
+sequence
+-AAVPATSESPVLSVLCRESLRGQAAGR-------PLVASVSLNVPASVRY------------------------
+----------*
+>P1;84495
+secondary structure and phi angle
+X--------------X------------XXXXXXXXXXXXXXXXXXXXX--CCXXXXXXXXXXXXXXXXXXXXXX
+XXPXXXXXXX*
+>P1;104280
+secondary structure and phi angle
+-CCCCCCCCCCCCCCCCHHHHCPCCCCC-------CCEEECCCCCCCEEEP------------------------
+----------*
+>P1;84495
+solvent accessibility
+T--------------T------------TTTTTTTTTTTTTTTTTTTTT--TFTTTTTTTTTTTTTTTTTTTTTT
+TTTTTTTTTT*
+>P1;104280
+solvent accessibility
+-TTTTTTTTTTTTTTTTTTTTTTTTTTT-------TTTTTTTTTTTTTTTT------------------------
+----------*
+>P1;84495
+hydrogen bond to mainchain CO
+F--------------F------------FFFFFFFFFFFFFFFFFFFFF--FFFFFFFFFFFFFFTFFFFFFFFT
+FFFFFFFFFF*
+>P1;104280
+hydrogen bond to mainchain CO
+-FFFFFFFFFFFFFFFFFFFFFFFFFFF-------FFFFFFFFFFFFFFFF------------------------
+----------*
+>P1;84495
+hydrogen bond to mainchain NH
+F--------------F------------TFFFFFFFFFFFFTFFFFFFF--FFFFFFFFFFFFFFFFFFFFFFFF
+FFFTFFFFFF*
+>P1;104280
+hydrogen bond to mainchain NH
+-FFFFFFFFFFFFFFFTFFFFFFFFFFF-------FFFFFFTFFFFFFFFF------------------------
+----------*
+>P1;84495
+hydrogen bond to other sidechain/heterogen
+T--------------F------------FFFFTFFFFFFFFTFTTFFFF--FFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFTFFFF*
+>P1;104280
+hydrogen bond to other sidechain/heterogen
+-FFFFFFFFFFFFFFFTFFTFFFFFFFF-------FFFFFFFFFFFFFFFF------------------------
+----------*
+>P1;84495
+cis-peptide bond
+F--------------F------------FFFFFFFFFFFFFFFFFFFFF--FFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFF*
+>P1;104280
+cis-peptide bond
+-FFFFFFFFFFFFFFFFFFFFFFFFFFF-------FFFFFFFFFFFFFFFF------------------------
+----------*
+>P1;84495
+hydrogen bond to heterogen
+F--------------F------------FFFFFFFFFFFFFFFFFFFFF--FFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFF*
+>P1;104280
+hydrogen bond to heterogen
+-FFFFFFFFFFFFFFFFFFFFFFFFFFF-------FFFFFFFFFFFFFFFF------------------------
+----------*
+>P1;84495
+covalent bond to heterogen
+F--------------F------------FFFFFFFFFFFFFFFFFFFFF--FFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFF*
+>P1;104280
+covalent bond to heterogen
+-FFFFFFFFFFFFFFFFFFFFFFFFFFF-------FFFFFFFFFFFFFFFF------------------------
+----------*
+>P1;84495
+disulphide
+F--------------F------------FFFFFFFFFFFFFFFFFFFFF--FFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFF*
+>P1;104280
+disulphide
+-FFFFFFFFFFFFFFFFFFFFFFFFFFF-------FFFFFFFFFFFFFFFF------------------------
+----------*
+>P1;84495
+mainchain to mainchain hydrogen bonds (amide)
+F--------------F------------FFTTTTFFFFFTFFFFFFFTF--FFTFFFFTTTTFTFFTFFFFFFTF
+FFFTFFFFFF*
+>P1;104280
+mainchain to mainchain hydrogen bonds (amide)
+-FFTFFFTFFFFFFFFFFTTTTTTFTFF-------FFFFTFFFFFFFTFTF------------------------
+----------*
+>P1;84495
+Mainchain to mainchain hydrogen bonds (carbonyl)
+F--------------F------------TTTTFFTFFFFTFFFFFTFTF--FFFFFTTFFFTFFTFFFFFFTFFF
+FTFFFFFFFF*
+>P1;104280
+Mainchain to mainchain hydrogen bonds (carbonyl)
+-TFFFTFFFFFFFFFFTTTFTFFTFFFF-------FFTFTFFFFFFFTFFF------------------------
+----------*
+>P1;84495
+DSSP
+C--------------C------------CCCCCCCCCCEECCCCCCCEE--CCCCCCHHHHCCCCCCCCCCCCCC
+CCCCCCCCCC*
+>P1;104280
+DSSP
+-CCCCCCCCCCCCCCCCHHHHCCCCCCC-------CCEEECCCCCCCEEEC------------------------
+----------*
+>P1;84495
+positive phi angle
+F--------------F------------TFFFFTTFFFFFFFFFFFFFF--FFFFFTFFFFFFFTFFTFFTFFFF
+TFTTFTFTTF*
+>P1;104280
+positive phi angle
+-FFFFFFFFFFFFFFFFFFFFFTFFFFF-------FFFFFFFFFFFFFFFT------------------------
+----------*
+>P1;84495
+percentage accessibility
+8--------------9------------785855544476829644556--406587a95687594974748b24
+27a297a99b*
+>P1;104280
+percentage accessibility
+-9a942a867886e39699668879688-------8478684963268721------------------------
+----------*
+>P1;84495
+Ooi number
+0--------------1------------111111212222111112222--222111111111111111111012
+2222111000*
+>P1;104280
+Ooi number
+-111121111100111111111111111-------1111212112222221------------------------
+----------*

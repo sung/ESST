@@ -1,0 +1,96 @@
+>P1;44190
+sequence
+-ENSECSAFTLYGVYYKCPCER----G------------LTCEG----DKSLVGSITN--TNFGICHN---V*
+>P1;44189
+sequence
+G-------I----I---I----NLDEGELCLNSAQCKSN-CCQ-HDTI----------LSLS--RCALKAR-*
+>P1;44190
+secondary structure and phi angle
+-CPCEEECCCCCPCCCCCCCCC----P------------EEEEP----CCCHHHHHHP--CCEEEEEE---P*
+>P1;44189
+secondary structure and phi angle
+C-------P----C---C----PCCCPCCCCCHHHCCCC-CEE-CCCC----------CCCC--EECCCCC-*
+>P1;44190
+solvent accessibility
+-TTTTFFTTTTTTTTTTTTFTT----T------------TTTTT----TTTTTTTTTT--TTTTTTTT---T*
+>P1;44189
+solvent accessibility
+T-------T----T---T----TFTTTTTFTTTTTFTTT-TFT-TTTT----------TTTT--TFTTTTT-*
+>P1;44190
+hydrogen bond to mainchain CO
+-FFFFFFFFTFTFFFFFFFFFF----F------------FTFTF----FFFFFFTFFT--TTFFFFFF---F*
+>P1;44189
+hydrogen bond to mainchain CO
+F-------F----F---F----FFFFFFFFFFFFTFFTT-FFF-TFFF----------FTFT--FFFFTFF-*
+>P1;44190
+hydrogen bond to mainchain NH
+-FFFFFFFFFFFFFTFFFFFFF----F------------FFFFF----FFTFFFFFFF--FTFFFFFF---F*
+>P1;44189
+hydrogen bond to mainchain NH
+F-------F----F---F----FFFFFTFFFTTFTFFFF-FFF-FFFF----------FTFF--FFFFFFF-*
+>P1;44190
+hydrogen bond to other sidechain/heterogen
+-FFFTFFFFTFFFFFFTFFFFF----F------------FFFTF----FFFFFFTFFT--FTFFFFTF---F*
+>P1;44189
+hydrogen bond to other sidechain/heterogen
+F-------F----F---F----FFTFFFFFFFFFFFTFF-FFF-FFTF----------FTFT--FFFFFFF-*
+>P1;44190
+cis-peptide bond
+-FFFFFFFFFFFFFFFFFFFFF----F------------FFFFF----FFFFFFFFFF--FFFFFFFF---F*
+>P1;44189
+cis-peptide bond
+F-------F----F---F----FFFFFFFFFFFFFFFFF-FFF-FFFF----------FFFF--FFFFFFF-*
+>P1;44190
+hydrogen bond to heterogen
+-FFFFFFFFFFFFFFFFFFFFF----F------------FFFFF----FFFFFFFFFF--FFFFFFFF---F*
+>P1;44189
+hydrogen bond to heterogen
+F-------F----F---F----FFFFFFFFFFFFFFFFF-FFF-FFFF----------FFFF--FFFFFFF-*
+>P1;44190
+covalent bond to heterogen
+-FFFFFFFFFFFFFFFFFFFFF----F------------FFFFF----FFFFFFFFFF--FFFFFFFF---F*
+>P1;44189
+covalent bond to heterogen
+F-------F----F---F----FFFFFFFFFFFFFFFFF-FFF-FFFF----------FFFF--FFFFFFF-*
+>P1;44190
+disulphide
+-FFFFTFFFFFFFFFFFFFTFF----F------------FFTFF----FFFFFFFFFF--FFFFFTFF---F*
+>P1;44189
+disulphide
+F-------F----F---F----FFFFFFFTFFFFFTFFF-FTF-FFFF----------FFFF--FTFFFFF-*
+>P1;44190
+mainchain to mainchain hydrogen bonds (amide)
+-FTTFTTTFTFFTTFFFFFFFF----T------------TTFTF----FTFFFTTTTT--TFTTTTTF---T*
+>P1;44189
+mainchain to mainchain hydrogen bonds (amide)
+F-------F----T---F----TTFFTTFTFFFTTTTTT-TFT-FFFF----------FTFF--TTTFFFT-*
+>P1;44190
+Mainchain to mainchain hydrogen bonds (carbonyl)
+-TFTFTFTFFTTFFFFFTFFTT----F------------FTFTT----FFTTTTTFFF--TTFTTTTF---F*
+>P1;44189
+Mainchain to mainchain hydrogen bonds (carbonyl)
+T-------F----F---T----FTTTFTFFFTTTTTTTF-TFT-FFFT----------FFFT--TTFFTFF-*
+>P1;44190
+DSSP
+-CCCEEECCCCCCCCCCCCCCC----C------------EEEEC----CCCHHHHHHC--CCEEEEEE---C*
+>P1;44189
+DSSP
+C-------C----C---C----CCCCCCCCCCGGGCCCC-CEE-CCCC----------CCCC--EECCCCC-*
+>P1;44190
+positive phi angle
+-FTFFFFFFFFFTFFFFFFFFF----T------------FFFFT----FFFFFFFFFT--FFFFFFFF---T*
+>P1;44189
+positive phi angle
+F-------T----F---F----TFFFTFFFFFFFFFFFF-FFF-FFFF----------FFFF--FFFFFFF-*
+>P1;44190
+percentage accessibility
+-47860029074b82739409a----d------------15055----b669815640--50325047---a*
+>P1;44189
+percentage accessibility
+6-------b----7---7----80648550784810526-305-4979----------9581--40476aa-*
+>P1;44190
+Ooi number
+-222334432221222333322----1------------22333----2221122223--33333222---1*
+>P1;44189
+Ooi number
+2-------1----2---2----22233333333223223-333-2111----------1123--3332110-*

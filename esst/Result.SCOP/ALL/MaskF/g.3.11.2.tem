@@ -1,0 +1,192 @@
+>P1;92034
+sequence
+-CQCNDNIDPNAVGNCNR----------------------LTGE--CLKCIYNTAGFYCDRCKEGFFGNPLAP--
+---NPA---DKCK-A-*
+>P1;92033
+sequence
+Q-----------------PCPCPG--------GSSCAIVPKTKEVVCTHCPTGTAGKRCELCDDGYFGDPLGSN-
+---GP-VRL--CRP--*
+>P1;92035
+sequence
+-------------------CACNPYGTVQQQS--SC--NPVTGQ--C-QCLPHVSGRDCGTCDPGYY-------N
+LQSG-----QGCE--R*
+>P1;92034
+secondary structure and phi angle
+-CCCPPCCCCCCCPCCCC----------------------CCPC--CCCCCPPEEPCCPCEECCPCCPCCCCC--
+---CCC---CCCC-C-*
+>P1;92033
+secondary structure and phi angle
+C-----------------CCCCCP--------PCCEEECCCCPCEEECCCCCPEEPCCPCEECCPCEPECCPCC-
+---PC-CEE--EEC--*
+>P1;92035
+secondary structure and phi angle
+-------------------CPCCCCCCHPPCC--CC--CCCCPC--C-CCCCPEEPCCPCEECCPCC-------P
+HHHP-----CPCC--C*
+>P1;92034
+solvent accessibility
+-TTFTTFTTTTTTTTTTT----------------------TTTT--FTTFTTTFTTTTFTTTTTTTTTTTTTT--
+---TTT---TFFT-T-*
+>P1;92033
+solvent accessibility
+T-----------------TTTFTT--------TTTTTTTTTTTTTTFTTTTTFTTTTTFTTFTTTTTFTFTTTT-
+---TT-TTT--FTT--*
+>P1;92035
+solvent accessibility
+-------------------TTFTTTFFTTTTT--TT--TTTTTT--F-TTTTTFTTTTFTTTTTTTT-------T
+TTTT-----TFFT--T*
+>P1;92034
+hydrogen bond to mainchain CO
+-FFFTFTFFFFFFFTFFF----------------------FFFF--FFTFFFTTFFFFFFFFFFFFFFFFFFF--
+---FFF---FTFF-F-*
+>P1;92033
+hydrogen bond to mainchain CO
+F-----------------FFFFFF--------FTFFFFFFFFFFFFFTFFFFFTFFFFFFFFFFFFFFFFFFFF-
+---FF-FFF--FFF--*
+>P1;92035
+hydrogen bond to mainchain CO
+-------------------FFFFFFFTFFFFF--FF--FFFFFT--F-FFFFFFFFTFFFFFTFFFF-------F
+FFTF-----FFFF--F*
+>P1;92034
+hydrogen bond to mainchain NH
+-FFFFFFFTFFFFFFFTF----------------------FTFF--FFFFFFFFFFFFFTFFFFFFFFTFFFF--
+---TFF---FFFF-F-*
+>P1;92033
+hydrogen bond to mainchain NH
+F-----------------FFFFFF--------FTFFFFFFFFFFFFFFFFFFFFFFFFFTFFFFFFFFTFFFFF-
+---FF-FFF--FFF--*
+>P1;92035
+hydrogen bond to mainchain NH
+-------------------FFFTFFFFFFFFF--FF--TFFTFF--F-FFFFFFFFFTFFFFFFFFF-------F
+FFTF-----FFFF--F*
+>P1;92034
+hydrogen bond to other sidechain/heterogen
+-FFFFFTFFFFFFFFFFF----------------------FFFF--FFFFFFFFFFFFFFFFFFFFFFFFFFF--
+---FFF---FTFF-F-*
+>P1;92033
+hydrogen bond to other sidechain/heterogen
+F-----------------FFFFFF--------FFTFFFFFFFFFFFFTFFFFFFFFFFFFFFFFFFFFTFFFFT-
+---FF-FFF--FFF--*
+>P1;92035
+hydrogen bond to other sidechain/heterogen
+-------------------FFFFFFFTFFFTF--FF--TFFTFT--F-TFFFFFTFFFFFFFTFFFF-------F
+FFFF-----FFFF--F*
+>P1;92034
+cis-peptide bond
+-FFFFFFFFFFFFFFFFF----------------------FFFF--FFFFFFFFFFFFFFFFFFFFFFFFFFF--
+---FFF---FFFF-F-*
+>P1;92033
+cis-peptide bond
+F-----------------FFFFFF--------FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF-
+---FF-FFF--FFF--*
+>P1;92035
+cis-peptide bond
+-------------------FFFFFFFFFFFFF--FF--FFFFFF--F-FFFFFFFFFFFFFFFFFFF-------F
+FFFF-----FFFF--F*
+>P1;92034
+hydrogen bond to heterogen
+-FFFFFFFFFFFFFFFFF----------------------FFFF--FFFFFFFFFFFFFFFFFFFFFFFFFFF--
+---FFF---FFFF-F-*
+>P1;92033
+hydrogen bond to heterogen
+F-----------------FFFFFF--------FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF-
+---FF-FFF--FFF--*
+>P1;92035
+hydrogen bond to heterogen
+-------------------FFFFFFFFFFFFF--FF--FFFFFF--F-FFFFFFFFFFFFFFFFFFF-------F
+FFFF-----FFFF--F*
+>P1;92034
+covalent bond to heterogen
+-FFFFFFFFFFFFFFFFF----------------------FFFF--FFFFFFFFFFFFFFFFFFFFFFFFFFF--
+---FFF---FFFF-F-*
+>P1;92033
+covalent bond to heterogen
+F-----------------FFFFFF--------FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF-
+---FF-FFF--FFF--*
+>P1;92035
+covalent bond to heterogen
+-------------------FFFFFFFFFFFFF--FF--FFFFFF--F-FFFFFFFFFFFFFFFFFFF-------F
+FFFF-----FFFF--F*
+>P1;92034
+disulphide
+-TFTFFFFFFFFFFFTFF----------------------FFFF--TFFTFFFFFFFFTFFTFFFFFFFFFFF--
+---FFF---FFTF-F-*
+>P1;92033
+disulphide
+F-----------------FTFTFF--------FFFTFFFFFFFFFFTFFTFFFFFFFFTFFTFFFFFFFFFFFF-
+---FF-FFF--TFF--*
+>P1;92035
+disulphide
+-------------------TFTFFFFFFFFFF--FT--FFFFFF--T-FTFFFFFFFFTFFTFFFFF-------F
+FFFF-----FFTF--F*
+>P1;92034
+mainchain to mainchain hydrogen bonds (amide)
+-FFFFTTFFFTTFFTTTT----------------------TFTF--TTTFTFTTTFFTTTTFTFTTTFTFTTF--
+---FFT---TTFT-F-*
+>P1;92033
+mainchain to mainchain hydrogen bonds (amide)
+F-----------------FFFTFF--------TTFFTFTFTTTTFTTTFFFFTTTFFTTTTFTFTTTFTFTTFT-
+---FF-FTF--FTF--*
+>P1;92035
+mainchain to mainchain hydrogen bonds (amide)
+-------------------FFTTFTTTTTTTF--FF--TFTFTT--T-FTTFTTTFFTTTTFTFTTT-------F
+FTTT-----TFTT--F*
+>P1;92034
+Mainchain to mainchain hydrogen bonds (carbonyl)
+-FFTTFTFTFFFTTTTTF----------------------FFTT--FFFFTTTFTTTTFFTFTFFFTFTTFFF--
+---TTT---FTFT-F-*
+>P1;92033
+Mainchain to mainchain hydrogen bonds (carbonyl)
+F-----------------FTFFTT--------FFTFTFTTFTFTFTFFFFTFTFTTTTTFTFTFFFTFTFFTFF-
+---FT-FTT--FTF--*
+>P1;92035
+Mainchain to mainchain hydrogen bonds (carbonyl)
+-------------------TFFTFFTTTTFFF--FF--TFFTTT--T-TFTTTFTTTTFFTFTFFFT-------T
+TTTF-----FFFT--F*
+>P1;92034
+DSSP
+-CCCCCCCCCCCCCCCCC----------------------CCCC--CCCCCCCEECCCCCEECCCCCCCCCCC--
+---CCC---CCCC-C-*
+>P1;92033
+DSSP
+C-----------------CCCCCC--------CCCEEECCCCCCEEECCCCCCEECCCCCEECCCCEEECCCCC-
+---CC-CEE--EEC--*
+>P1;92035
+DSSP
+-------------------CCCCCCCCGGGCC--CC--CCCCCC--C-CCCCCEECCCCCEECCCCC-------C
+GGGC-----CCCC--C*
+>P1;92034
+positive phi angle
+-FFFTTFFFFFFFTFFFF----------------------FFTF--FFFFFTTFFTFFTFFFFFTFFTFFFFF--
+---FFF---FFFF-F-*
+>P1;92033
+positive phi angle
+F-----------------FFFFFT--------TFFFFFFFFFTFFFFFFFFFTFFTFFTFFFFFTFFTFFFTFF-
+---TF-FFF--FFF--*
+>P1;92035
+positive phi angle
+-------------------FTFFFFFFFTTFF--FF--FFFFTF--F-FFFFTFFTFFTFFFFFTFF-------T
+FFFT-----FTFF--F*
+>P1;92034
+percentage accessibility
+-3a04b0148b3aa1159----------------------9564--04503450244504615bb27371519--
+---748---6004-7-*
+>P1;92033
+percentage accessibility
+b-----------------83503c--------c081866797840405814900355403505ba260004069-
+---79-559--066--*
+>P1;92035
+percentage accessibility
+-------------------390266002874a--91--589734--0-7116405844017139718-------6
+1624-----9006--8*
+>P1;92034
+Ooi number
+-33434442211223321----------------------1122--333444344333433322122233322--
+---232---2332-2-*
+>P1;92033
+Ooi number
+1-----------------122332--------222222110112233223332333334433221222333221-
+---11-223--321--*
+>P1;92035
+Ooi number
+-------------------2233334432322--22--211123--3-3433333333443321122-------2
+3323-----3332--1*
