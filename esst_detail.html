@@ -1,0 +1,37 @@
+<!--#include virtual="/ESST/template/head.html"-->
+<hr>
+<!--#include virtual="/ESST/template/navi_panel.html"-->
+<!-- more about esst -->
+<div style="border-style: solid; border-color: rgb(0, 102, 170); border-width: 1px 2px 2px 1px; padding: 0em 1em 0.5em; margin-top: 0.3em; background-color: rgb(255, 255, 255);">
+<center>
+<table style="border-collapse: collapse;" border="0"
+ bordercolor="#111111" cellpadding="0" cellspacing="0" width="90%">
+  <tbody>
+    <tr>
+      <td bordercolor="#FFFFFF" width="90%">
+	  <br>
+      <h2><font size=4>More about ESST</font></h2>
+      <dl>
+	<dd>The ESST was improved and updated by Shi et al. when FUGUE [<a href='http://www.ncbi.nlm.nih.gov/pubmed/11419950?dopt=Citation'>3</a>] in 2001 by the use of the following features:<br>
+<b>1)</b> a clustering scheme to correct sampling bias,<br>
+<b>2)</b> a smoothing procedure to correct data sparsity,<br>
+<b>3)</b> using only high resolution structures in the alignments as a source of substitution matrices, and<br>
+<b>4)</b> reduction of the bias caused by non-structural constraints.<br><br>
+The last feature was designed to separate functional constraints from structural constraints when generating ESSTs. Because ESSTs only take into account structural environments, substitutions where the amino acids are conserved for functional reasons should not be counted in the calculation of matrices. Shi et al. took two kinds of functional residues into account to eliminate non-structural constraints which may cause a bias in the ESST. They were<br>
+<b>1)</b> residues involved in domain-domain interactions and<br> 
+<b>2)</b> those interacting with ligand.<br>
+<br>
+Such residues were masked in the alignment files and were not taken into account in the substitution counts. However, the masking appeared to have very little impact on the performance of FUGUE.<br><br>
+
+Chelliah et al. [<a href='http://www.ncbi.nlm.nih.gov/pubmed/16193489?dopt=Citation'>4</a>] further developed ESSTs by considering functional restraints, particularly in enzymes, on amino acid substitutions as a new environment in addition to 64 structural environments. They measured the Euclidean distance between every amino acid and the known functional residues and compared the degree of conservation in terms of the proximity with the functional residues. Their ESST, known as the function-dependent ESST, showed improvements in sequence to structure homology recognition.
+
+<!--#include virtual="/ESST/references.html"-->
+	</dl>
+	</tr>
+
+  </tbody>
+</table>
+</center>
+</div>
+<hr>
+<!--#include virtual="/ESST/template/foot.html"-->

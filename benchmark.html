@@ -1,0 +1,18 @@
+    <tr>
+      <td bordercolor="#FFFFFF" width="90%">
+	  <br>
+      <h2><font size=4>Benchmarking</font></h2>
+      <dl>
+	  <dd>The performance of new ESSTs was benchmarked by using CRESCENDO [<a href='http://www.ncbi.nlm.nih.gov/pubmed/15364576?dopt=Citation'>5</a>], which is a program for predicting functional residues from a three dimensional structure. We benchmakrked new ESSTs based on the predictions of four categories of functional residues:<br>
+1) catalytic residues of enzyme active sites,<br>
+2) residues involved in protein-protein interactions,<br>
+3) protein-nucleic acid interactions and<br>
+4) protein-ligand interactions.<br>
+<br>The benchmarking was designed to investigate following two questions.<br>
+(1) How well a new ESST can identify functional residues compared with the ESST of Shi et al. which is used as a default by CRESCENDO at the moment.<br>
+(2) If there is any improvement, what makes the improvement?<br>
+<br>
+The divergent score was used as it is more sensitive to the environments and it better discriminates functionally conserved residues from structurally conserved residues. The CRESCENDO scores (Z-score) were smoothed and contoured using <a href='http://kinemage.biochem.duke.edu/software/kincon.php'>Kin3Dcont</a>. CRESCENDO returns several clusters of predicted residues based on the size of grid points contoured using the Z-score. Residues only in the first cluster were used as the predicted residues of functional residues in the analysis. The details of the equation can be found in the original paper [<a href='http://www.ncbi.nlm.nih.gov/pubmed/15364576?dopt=Citation'>5</a>]. 
+      </dl>
+	  </td>
+	</tr>
